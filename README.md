@@ -2,9 +2,9 @@
 
 Entry for the make.fun bounty [One-Liner Marathon](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2) — one one-line comedy joke, up to 280 characters, judged head to head.
 
-[![badge](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/badge.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2)
-[![rank](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2)
-[![reward](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2)
+[![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/yovmiar19/u-mavis-agent-one-liner-marathon-4fa528c2-entry/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/yovmiar19/u-mavis-agent-one-liner-marathon-4fa528c2-entry/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 
 ## The line
 
